@@ -1,0 +1,15 @@
+D:\Projects\WordUp\bin\Debug\net7.0\WordUp.exe
+D:\Projects\WordUp\bin\Debug\net7.0\WordUp.deps.json
+D:\Projects\WordUp\bin\Debug\net7.0\WordUp.runtimeconfig.json
+D:\Projects\WordUp\bin\Debug\net7.0\WordUp.dll
+D:\Projects\WordUp\bin\Debug\net7.0\WordUp.pdb
+D:\Projects\WordUp\obj\Debug\net7.0\WordUp.csproj.AssemblyReference.cache
+D:\Projects\WordUp\obj\Debug\net7.0\WordUp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\WordUp\obj\Debug\net7.0\WordUp.AssemblyInfoInputs.cache
+D:\Projects\WordUp\obj\Debug\net7.0\WordUp.AssemblyInfo.cs
+D:\Projects\WordUp\obj\Debug\net7.0\WordUp.csproj.CoreCompileInputs.cache
+D:\Projects\WordUp\obj\Debug\net7.0\WordUp.dll
+D:\Projects\WordUp\obj\Debug\net7.0\refint\WordUp.dll
+D:\Projects\WordUp\obj\Debug\net7.0\WordUp.pdb
+D:\Projects\WordUp\obj\Debug\net7.0\WordUp.genruntimeconfig.cache
+D:\Projects\WordUp\obj\Debug\net7.0\ref\WordUp.dll

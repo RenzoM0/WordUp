@@ -1,0 +1,6 @@
+hond (Klinkers: 1, Medeklinkers: 3) - Even aantal letters
+dolfijn (Klinkers: 2, Medeklinkers: 5) - Oneven aantal letters
+eend (Klinkers: 2, Medeklinkers: 2) - Even aantal letters
+uil (Klinkers: 2, Medeklinkers: 1) - Oneven aantal letters
+zeehond (Klinkers: 3, Medeklinkers: 4) - Oneven aantal letters
+kat (Klinkers: 1, Medeklinkers: 2) - Oneven aantal letters
